@@ -1,4 +1,4 @@
-# vue-visual-editor
+# quasar-css-visual-editor
 
 ## todoList
 - size editor: width/min-width、height/min-height
